@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m Maniya Jain</h1>
 
 
+## 📌 Quick Intro
 🎓 B.Tech CSE (AI/ML)  
 🔍 Aspiring AI Engineer | 💻 DSA • Python • Machine Learning  
 🎯 Focused on building impactful ML projects & solving real world problems
